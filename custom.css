@@ -1,0 +1,19 @@
+.header-author-custom{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-family: Roboto, "Roboto", serif;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.archive-article-date-custom-div{
+    /* text-align: center; */
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+.archive-article-date-custom{
+    font-size: 12px;
+    /* text-align: center; */
+    color: #ccc;
+}
